@@ -1,24 +1,19 @@
 <p align="center">
   <img src="./gifs/coding.gif" width="1000">
 </p>
-## 💫 About Me
+# 💫 About Me
 
-### Hi, I'm Adwait 👋
+## Hi, I'm Adwait 👋
 
-🎓 **Electronics & Computer Engineering Student | Software Developer | AI/ML Enthusiast**
+🎓 Electronics & Computer Engineering Student | Software Developer | AI/ML Enthusiast
 
-I'm a final-year Electronics & Computer Engineering student passionate about **software development, AI/ML, and building practical technology solutions**.
+I'm a final-year Electronics & Computer Engineering student passionate about software development, AI/ML, and building practical technology solutions.
 
-🚀 I enjoy turning ideas into working applications, from **AI-powered prediction systems and data-driven solutions to full-stack web applications**.
+I enjoy turning ideas into working applications, from AI-powered prediction systems and data-driven projects to full-stack web applications. I have hands-on experience with Java, C/C++, Python, JavaScript, SQL, Node.js, and Express.js, and I'm continuously improving my skills in DSA, Machine Learning, Backend Development, and System Design.
 
-💻 **Tech I work with:**  
-`Java` `C/C++` `Python` `JavaScript` `SQL` `Node.js` `Express.js`
+🏆 Hackathon Winner | AI/ML Projects | Full-Stack Development
 
-🌱 Currently focused on improving my skills in **DSA, Machine Learning, Backend Development, and System Design**, while building projects that solve real-world problems.
-
-🏆 **Hackathon Winner | AI/ML Projects | Full-Stack Development**
-
-📌 *Build. Learn. Improve. Repeat.*
+📌 Build. Learn. Improve. Repeat.
 
 
 ## 🌐 Socials:
