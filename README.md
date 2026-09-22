@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./gifs/coding.gif" width="1000">
 </p>
-##💫 About Me
+💫 About Me
 
 ## Hi, I'm Adwait 👋
 
