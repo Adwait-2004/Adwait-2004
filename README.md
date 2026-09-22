@@ -30,7 +30,6 @@ I enjoy turning ideas into working applications, from AI-powered prediction syst
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Adwait-2004&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!--
 **Adwait-2004/Adwait-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
